@@ -17,6 +17,8 @@
 	.st9{fill:none;stroke:#000000;stroke-width:0.2551;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
 	.st10{fill:none;stroke:#000000;stroke-width:0.2551;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10.0002;}
 	.st11{fill:none;stroke:#000000;stroke-width:0.2551;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10.0003;}
+	.st12{fill:none;stroke:#000000;stroke-width:0.2551;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10.0004;}
+	.st13{fill:none;stroke:#000000;stroke-width:0.2551;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:9.9995;}
 </style>
 <polygon id="_x30_0.27.05" class="st0" points="502.2,656.7 502.2,670.8 552.6,670.8 567.5,670.8 582,670.8 593.7,670.8 
 	593.7,662.7 617.4,662.7 617.4,541.7 593.7,541.7 593.7,533.6 587.9,533.6 566.6,533.6 502.2,533.6 502.2,549.8 479.4,549.8 
@@ -193,14 +195,14 @@
 	368.9,403.7 357.8,403.7 357.8,391.4 360.5,391.4 360.5,386.3 360.5,346.4 357,345 369.6,313.4 355.3,342.9 "/>
 <polygon id="_x30_0.24.02" class="st0" points="1222.4,748.2 1222.4,735.8 1236,735.8 1236,726.7 1236,660.8 1236,617.8 1236,596.2 
 	1236,546.4 1138.4,546.4 1138.4,796.7 1181.3,796.7 1181.3,748.2 "/>
-<polygon id="ST02" class="st0" points="191.7,838.1 191.7,961.7 212.1,961.7 212.1,854.1 212.1,838.1 "/>
+<polygon id="ST02_-_000" class="st0" points="191.7,838.1 191.7,961.7 212.1,961.7 212.1,854.1 212.1,838.1 "/>
 <rect id="EL03_1_" x="191.7" y="760.1" class="st0" width="39.1" height="28.7"/>
 <polygon id="_x30_0.25.02" class="st0" points="1021.5,546.4 903,546.4 903,663.5 903,672.1 903,682.8 903,725.4 903,740.7 903,756 
 	903,771.3 903,780.5 928.6,780.5 928.6,796.7 996,796.7 996,780.5 1021.5,780.5 "/>
 <polygon id="_x30_0.28.20" class="st0" points="457.2,838.1 457.2,880.2 525.1,880.2 525.1,842.8 490,842.8 490,864 478.7,864 
 	478.7,862.3 488.4,862.3 488.4,842.1 488.4,838.1 "/>
 <rect id="_x30_0.25.03" x="900.5" y="838.1" class="st0" width="97" height="58.6"/>
-<polygon id="ST01" class="st1" points="1382.1,848.2 1341.7,848.2 1341.7,885.5 1341.7,919.2 1382.1,919.2 "/>
+<polygon id="ST01_-_000" class="st1" points="1382.1,848.2 1341.7,848.2 1341.7,885.5 1341.7,919.2 1382.1,919.2 "/>
 <rect id="EL02_1_" x="1276.6" y="747" class="st0" width="31.1" height="41.9"/>
 <polygon id="EL01_1_" class="st0" points="1224.9,788.5 1224.9,788.8 1274,788.8 1274,745.7 1274,738.4 1237.3,738.4 1224.9,738.4 
 	1224.9,749.4 "/>
@@ -793,7 +795,7 @@
 <g id="Layer_151">
 	<g id="CIRCLE_21_">
 		
-			<ellipse transform="matrix(0.104 -0.9946 0.9946 0.104 -516.7565 691.3242)" class="st10" cx="125.3" cy="632.5" rx="8.1" ry="8.1"/>
+			<ellipse transform="matrix(0.137 -0.9906 0.9906 0.137 -518.3336 669.9838)" class="st12" cx="125.4" cy="632.5" rx="8.1" ry="8.1"/>
 	</g>
 </g>
 <g id="Layer_150">
@@ -814,7 +816,7 @@
 <g id="Layer_147">
 	<g id="CIRCLE_16_">
 		
-			<ellipse transform="matrix(3.327788e-02 -0.9994 0.9994 3.327788e-02 -622.5214 854.2061)" class="st9" cx="130.3" cy="748.9" rx="8.1" ry="8.1"/>
+			<ellipse transform="matrix(6.652042e-02 -0.9978 0.9978 6.652042e-02 -625.6472 829.0654)" class="st13" cx="130.3" cy="748.9" rx="8.1" ry="8.1"/>
 	</g>
 </g>
 <g id="Layer_146">
